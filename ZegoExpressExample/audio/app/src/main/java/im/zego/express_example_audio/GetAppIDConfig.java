@@ -1,4 +1,5 @@
-package im.zego.common;
+package im.zego.express_example_audio;
+
 
 public class GetAppIDConfig {
     /** Please fill appID and appSign */
